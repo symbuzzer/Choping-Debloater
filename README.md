@@ -20,4 +20,4 @@
 -/system/vendor/app/SoterService  
 -/system/vendor/app/IFAAService  
   
- Note: Dont forget to uninstall these apps from Settings>Applications>Manage Applications section if still exist
+ Note: Don't forget to uninstall these apps from "Settings > Applications > Manage Applications" section if still exist
