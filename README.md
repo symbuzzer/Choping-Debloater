@@ -1,7 +1,7 @@
 # Choping-Debloater
  Debloat system apps on Choping (POCO X3 GT / REDMI NOTE 10 PRO 5G)  
    
- Works on both MIUI 13 and MIUI 12  
+ Works on both MIUI 13 and MIUI 12. Should work other MIUI based devices too.  
  Removes these non-removable apps from system without breaking anything:  
 -/system/app/AnalyticsCore - "Analytics"  
 -/system/app/facebook-appmanager - "Facebook App Manager"  
