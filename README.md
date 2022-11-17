@@ -1,4 +1,4 @@
-# Choping-Debloater
+# Choping Debloater Magisk Module
  Debloat system apps on Choping (POCO X3 GT / REDMI NOTE 10 PRO 5G)  
    
  Works on both MIUI 13 and MIUI 12. Should work other MIUI based devices too.  
