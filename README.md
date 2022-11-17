@@ -1,7 +1,7 @@
 # Choping-Debloater
  Debloat system apps on Choping  
    
- Remove these not uninstallable apps from system without breaking anything:  
+ Removes these non-removable apps from system without breaking anything:  
 -/system/app/AnalyticsCore - "Analytics"  
 -/system/app/facebook-appmanager - "Facebook App Manager"  
 -/system/app/Joyose - "Joyose"  
