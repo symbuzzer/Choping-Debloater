@@ -11,10 +11,10 @@ REPLACE="
 /system/app/InMipay
 /system/priv-app/facebook-installer
 /system/priv-app/facebook-services
+/system/priv-app/MIUIGlobalMinusScreen
 /system/priv-app/MIUIYellowPageGlobal
 /system/product/app/YouTube
 /system/vendor/app/MipayService
 /system/vendor/app/SoterService
 /system/vendor/app/IFAAService
 "
-
