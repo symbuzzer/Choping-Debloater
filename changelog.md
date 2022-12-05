@@ -1,3 +1,6 @@
+v1.0.3  
+-Fixed updater  
+  
 v1.0.2  
 -Added MIUIGlobalMinusScreen  
   
