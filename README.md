@@ -16,6 +16,7 @@
 -/system/app/InMipay - "MiPay"  
 -/system/priv-app/facebook-installer - "Facebook Installer"  
 -/system/priv-app/facebook-services - "Facebook Services"  
+-/system/priv-app/MIUIGlobalMinusScreen - "Xiaomi App Vault"  
 -/system/priv-app/MIUIYellowPageGlobal - "Yellow Page"  
 -/system/product/app/YouTube - "Youtube"  
 -/system/vendor/app/MipayService - "MiPay Service"  
