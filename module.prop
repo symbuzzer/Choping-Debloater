@@ -1,7 +1,7 @@
 id=Choping-Debloater
 name=Choping-Debloater
-version=v1.0.4
-versionCode=104
+version=v1.0.5
+versionCode=105
 author=Ali Beyaz (avalibeyaz.com/github)
 description=Don't forget to uninstall debloated apps from "Settings > Applications > Manage Applications" section if still exist
 updateJson=https://raw.githubusercontent.com/symbuzzer/Choping-Debloater-Magisk-Module/main/update.json
