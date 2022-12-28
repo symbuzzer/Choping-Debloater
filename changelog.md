@@ -1,4 +1,7 @@
 v1.0.3  
+-Removed unnecessary things  
+  
+v1.0.3  
 -Fixed updater  
   
 v1.0.2  
