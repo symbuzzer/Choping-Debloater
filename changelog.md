@@ -1,7 +1,10 @@
-v2.0.1
+v2.0.2  
+-Fixed updater 2  
+  
+v2.0.1  
 -Fixed updater  
   
-v2.0.0
+v2.0.0  
 -Rewritten from stratch  
   
 v1.0.6  
