@@ -1,3 +1,5 @@
+v2.0.3  
+-Migrated to a new module [Poco Debloater Stage 1 Magisk Module](https://github.com/symbuzzer/Poco-Debloater-Magisk-Modules/tree/main/stage%201)
 v2.0.2  
 -Fixed updater 2  
   
